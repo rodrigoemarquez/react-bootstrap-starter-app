@@ -2,6 +2,12 @@
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app) and includes [Bootstrap](https://react-bootstrap.github.io)
 
+Just run:
+
+### `npm install`
+
+and you are ready to go!
+
 ## Available Scripts
 
 In the project directory, you can run:
